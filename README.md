@@ -1,4 +1,4 @@
-# Online Auction-Management-System
+# The Online Auction-Management-System
 The "Online Auction Management System" project, driven by HTML, CSS, JavaScript, 
 Python with Django, and Python, emerges as an exciting option in the age of digital trade, 
 capitalizing on the power of computing to reshape the physical environment of buying and selling. 
